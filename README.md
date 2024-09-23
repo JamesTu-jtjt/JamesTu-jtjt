@@ -1,7 +1,7 @@
 # 💫 About Eng-Shen (James) Tu:
 NCKU CSIE Class of 2024<br>Ex-Appier<br>Currently actively pursuing a PhD in Computer Science. <br>Email me at jamestu6301@gmail.com for collabs on research/side projects!
 
-Personal Website: [https://jamestu-jtjt.github.io/]
+Personal Website: https://jamestu-jtjt.github.io/
 
 ## Education
 
