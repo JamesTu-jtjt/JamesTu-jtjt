@@ -5,7 +5,8 @@ NCKU CSIE Class of 2024<br>Ex-Appier<br>Currently actively pursuing a PhD in Com
 
 **National Cheng Kung University (NCKU), Taiwan**  
 Bachelor of Science in Computer Science and Information Engineering (Class of 2024)  
-GPA: 3.78/4.3 &nbsp;|&nbsp; Credits Completed: 168
+**Fudan High School, Taiwan**  
+General Education (Class of 2019)
 
 ## Research Experience
 
