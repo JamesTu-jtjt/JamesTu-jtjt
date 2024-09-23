@@ -1,50 +1,14 @@
 # 💫 About Eng-Shen (James) Tu:
 NCKU CSIE Class of 2024<br>Ex-Appier<br>Currently actively pursuing a PhD in Computer Science. <br>Email me at jamestu6301@gmail.com for collabs on research/side projects!
 
+Personal Website: [https://jamestu-jtjt.github.io/]
+
 ## Education
 
 **National Cheng Kung University (NCKU), Taiwan**  
 Bachelor of Science in Computer Science and Information Engineering (Class of 2024)  
 **Fudan High School, Taiwan**  
 General Education (Class of 2019)
-
-## Research Experience
-
-### Research Assistant, Software Engineering and Intelligent Test Automation Lab, NCKU
-*March 2022 – September 2024*  
-**Advisor:** Associate Professor Shin-Jie Lee  
-**Research Topics:** Software Testing and Test Automation
-
-- Developed and maintained over 20 web crawlers for the Bank SinoPac Industry-Academia Cooperation Project.
-- Completed two independent research projects, leading to first-authored publications [1](#publications) and [2](#publications).
-- **Skills:** Python, Selenium, Docker, Scrapy, GitLab, LaTeX, Flask
-
-### Undergraduate Researcher, Intelligent Knowledge Management Lab, NCKU
-*September 2022 – September 2023*  
-**Advisor:** Professor Hung-Yu Kao  
-**Research Topics:** Generative AI and Natural Language Processing (NLP)
-
-- Led a team to participate in the 2022 NASA International Space Apps Challenge.
-- Senior Project: Presented a novel approach to fine-tuning Large Language Models (LLMs) for code generation.
-- **Skills:** Python, PyTorch, Django, Linux, Git, OpenCV
-
-### Part-Time Research Assistant, Networked Artificial Intelligence Lab, NCKU
-*September 2022 – December 2022*  
-**Advisor:** Professor Cheng-Te Li  
-**Research Topics:** Data Science and Machine Learning
-
-- Selected to participate in the 2022 IEEE Big Data Cup Trip Destination Prediction Challenge.
-- Proposed a rule-based approach to trip destination prediction, detailed in publication [4](#publications).
-- **Skills:** Python, PyTorch, Django, Linux, Git, OpenCV
-
-### Research Assistant, Advanced Computer Vision Lab, NCKU
-*May 2022 – February 2023*  
-**Advisor:** Associate Professor Chih-Chung Hsu  
-**Research Topics:** Deep Learning, Computer Vision, Compressed Sensing, Hyperspectral Analysis
-
-- Designed and conducted 16 experiments across 7 algorithms for a lightweight neural network in hyperspectral image analysis.
-- Highlighted results in co-authored publication [3](#publications).
-- **Skills:** Python, PyTorch, MATLAB, LaTeX, Linux, TensorFlow, Visio
 
 ## Publications
 
@@ -55,26 +19,6 @@ General Education (Class of 2019)
 3. Hsu, C.-C., Jian, C.-Y., **Tu, E.-S.**, Lee, C.-M., & Chen, G.-L. (2024). *Real-Time Compressed Sensing for Joint Hyperspectral Image Transmission and Restoration for CubeSat*. IEEE Transactions on Geoscience and Remote Sensing. [doi:10.1109/TGRS.2024.3378828](https://doi.org/10.1109/TGRS.2024.3378828)
 
 4. **Tu, E.-S.**, Chen, Y.-H., Liu, E.-C., Keng, H.-Y., & Li, C.-T. (2022). *An Embarrassingly Simple Rule-based Visiting Circulation Approach to Trip Destination Prediction*. In Proceedings of the IEEE International Conference on Big Data, Osaka, Japan, pp. 6565-6572. [doi:10.1109/BigData55660.2022.10020650](https://doi.org/10.1109/BigData55660.2022.10020650)
-
-## Work Experience
-
-### Quality Assurance Intern, Appier, Taipei Office
-*November 2023 – August 2024*
-
-- Adhered to Agile methodologies, designing and executing comprehensive testing plans.
-- Introduced research insights to enhance test automation for new Generative AI features.
-- Reduced manual testing efforts by ~50% through test automation development and maintenance.
-- Mentored two new team members, sharing best practices and product knowledge.
-- **Skills:** Regression Testing, Exploratory Testing, Test Case Design, Test Automation, Git, Jenkins, JavaScript, WebdriverIO
-
-### Software Development Intern, SEAMEO RECSAM, Penang, Malaysia
-*September 2023 – November 2023*
-
-- Developed the SEAMEO RECSAM Makerspace website using full-stack web development.
-- Received the Global Supernova Award from the Talent Circulation Alliance and Digi+.
-- **Skills:** JavaScript, Git, Front-end and Back-end Development
-
----
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/James Tu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jt.handwriting) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Eng-Shen Tu) 
