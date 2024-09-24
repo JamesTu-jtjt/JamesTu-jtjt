@@ -1,14 +1,7 @@
 # 💫 About Eng-Shen (James) Tu:
 NCKU CSIE Class of 2024<br>Ex-Appier<br>Currently actively pursuing a PhD in Computer Science. <br>Email me at jamestu6301@gmail.com for collabs on research/side projects!
 
-Personal Website: https://jamestu-jtjt.github.io/
-
-## Education
-
-**National Cheng Kung University (NCKU), Taiwan**  
-Bachelor of Science in Computer Science and Information Engineering (Class of 2024)  
-**Fudan High School, Taiwan**  
-General Education (Class of 2019)
+More about me on my personal website: https://jamestu-jtjt.github.io/
 
 ## Publications
 
