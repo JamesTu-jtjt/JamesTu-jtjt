@@ -5,13 +5,15 @@ More about me on my personal website: https://jamestu-jtjt.github.io/
 
 ## Publications
 
-1. **E. -S. Tu** & S. -J. Lee, "A Clustering-Based Approach for Detecting Low-Contrast Texts on Web Pages at the Granular Character Level," 2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC), Osaka, Japan, 2024, pp. 2296-2301, [doi:10.1109/COMPSAC61105.2024.00369](https://doi.org/10.1109/COMPSAC61105.2024.00369).
+- **E. -S. Tu** & S. -J. Lee, "Input Relation Prompting for Metamorphic Testing on Query-Based Systems", Journal of Information Science and Engineering, 41(1), 43-60, [doi:10.6688/JISE.202501_41(1).0003](https://doi.org/10.6688/JISE.202501_41(1).0003).
 
-2. C. -C. Hsu, C. -Y. Jian, **E. -S. Tu**, C. -M. Lee and G. -L. Chen, "Real-Time Compressed Sensing for Joint Hyperspectral Image Transmission and Restoration for CubeSat," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-16, 2024, Art no. 5512416, [doi:10.1109/TGRS.2024.3378828](https://doi.org/10.1109/TGRS.2024.3378828). 
+- **E. -S. Tu** & S. -J. Lee, "A Clustering-Based Approach for Detecting Low-Contrast Texts on Web Pages at the Granular Character Level," 2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC), Osaka, Japan, 2024, pp. 2296-2301, [doi:10.1109/COMPSAC61105.2024.00369](https://doi.org/10.1109/COMPSAC61105.2024.00369).
 
-3. **E. -S. Tu**, Y. -H. Chen, E. -C. Liu, H. -Y. Keng and C. -T. Li, "An Embarrassingly Simple Rule-based Visiting Circulation Approach to Trip Destination Prediction," 2022 IEEE International Conference on Big Data (Big Data), Osaka, Japan, 2022, pp. 6565-6572, [doi:10.1109/BigData55660.2022.10020650](https://doi.org/10.1109/BigData55660.2022.10020650).
+- C. -C. Hsu, C. -Y. Jian, **E. -S. Tu**, C. -M. Lee and G. -L. Chen, "Real-Time Compressed Sensing for Joint Hyperspectral Image Transmission and Restoration for CubeSat," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-16, 2024, Art no. 5512416, [doi:10.1109/TGRS.2024.3378828](https://doi.org/10.1109/TGRS.2024.3378828).
 
-4. **E. -S. Tu** & S. -J. Lee, "Input Relation Prompting for Metamorphic Testing on Query-Based Systems", Journal of Information Science and Engineering, 41(1), 43-60, [doi:10.6688/JISE.202501_41(1).0003](https://doi.org/10.6688/JISE.202501_41(1).0003).
+- **E. -S. Tu**, Y. -H. Chen, E. -C. Liu, H. -Y. Keng and C. -T. Li, "An Embarrassingly Simple Rule-based Visiting Circulation Approach to Trip Destination Prediction," 2022 IEEE International Conference on Big Data (Big Data), Osaka, Japan, 2022, pp. 6565-6572, [doi:10.1109/BigData55660.2022.10020650](https://doi.org/10.1109/BigData55660.2022.10020650).
+
+- 
 
 
 ## 💻 Tech Stack:
