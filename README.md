@@ -1,5 +1,5 @@
 # 💫 About Eng-Shen (James) Tu:
-NCKU CSIE Class of 2024<br>Ex-Appier<br>Email me at jamestu6301@gmail.com for collabs on research/side projects!
+QA Intern @ Appier<br>Research Intern @ Cornell<br>NCKU CSIE Class of 2024<br>Email me at jamestu6301@gmail.com for collabs on research/side projects!
 
 More about me on my personal website: https://jamestu-jtjt.github.io/
 
