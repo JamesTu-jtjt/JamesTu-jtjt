@@ -1,14 +1,14 @@
 # 💫 About Eng-Shen (James) Tu:
-Computer Science PhD student @ Cornell University
+Computer Science PhD student @ Cornell University <br>
+
+More about me on my personal website: https://jamestu-jtjt.github.io/
+
 
 ### Previously
 Software Engineer @ Appier<br>
 Research Intern @ Cornell<br>
 NCKU CSIE Class of 2024<br>
 Email me at jamestu6301@gmail.com for collabs on research/side projects!
-
-More about me on my personal website: https://jamestu-jtjt.github.io/
-
 <!---
 ## Publications
 ### 2025
